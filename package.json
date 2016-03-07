@@ -1,0 +1,20 @@
+{
+  "name": "webtorrent-sample",
+  "version": "1.0.0",
+  "description": "simple example for webtorrent",
+  "main": "seed_file.js",
+  "dependencies": {
+    "libtorrent-nodewrap": "^0.1.7",
+    "webtorrent-hybrid": "^0.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node seed_file.js"
+  },
+  "keywords": [
+    "libtorrent",
+    "webtorrent"
+  ],
+  "author": "kimtn",
+  "license": "ISC"
+}
